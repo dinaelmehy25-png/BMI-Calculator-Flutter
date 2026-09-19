@@ -1,17 +1,18 @@
-# flutter_application_1
+# BMI Calculator App
 
-A new Flutter project.
+A modern, interactive, and responsive BMI (Body Mass Index) Calculator application built with **Flutter**, **Dart**, and **GetX**.
 
-## Getting Started
+## Key Features
+- 🏋️‍♂️ **Dynamic Weight & Age Selector:** Incremental buttons for quick adjustments.
+- 📏 **Interactive Height Ruler:** Smooth 3D scrollable ruler built using `ListWheelScrollView`.
+- 🔄 **One-Tap Reset:** Instant refresh functionality to restore default values.
+- 🎨 **Modern UI & Theme:** Clean, responsive design with smooth animations.
+- 🔀 **State Management & Routing:** Powered by `GetX`.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** GetX
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Developer
+Developed by **Dina El-Mehy**
