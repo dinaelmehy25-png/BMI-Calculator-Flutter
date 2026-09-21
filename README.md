@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e36d3729-220c-47a4-9aa9-e8ba675134fd
+
 # BMI Calculator App
 
 A modern, interactive, and responsive BMI (Body Mass Index) Calculator application built with **Flutter**, **Dart**, and **GetX**.
